@@ -1,3 +1,17 @@
+# MazamaTimeSeries 0.2.5
+
+* Removed **readr** package from dependencies.
+* Addressed CRAN check issues.
+
+# MazamaTimeSeries 0.2.4
+
+* Updated to add a Zenodo DOI bdage.
+
+# MazamaTimeSeries 0.2.3
+
+* Added `sts_summarize()`.
+* Udated `example_raws` dataset.
+
 # MazamaTimeSeries 0.2.2
 
 * Documentation fixes requested by CRAN.
