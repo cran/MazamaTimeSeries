@@ -1,6 +1,6 @@
 Type: Package
 Package: MazamaTimeSeries
-Version: 0.2.8
+Version: 0.2.10
 Title: Core Functionality for Environmental Time Series
 Authors@R: c(
     person("Jonathan", "Callahan", email="jonathan.s.callahan@gmail.com", role=c("aut","cre")),
@@ -27,13 +27,13 @@ Suggests: knitr, markdown, testthat (>= 2.1.0), rmarkdown, roxygen2
 Encoding: UTF-8
 VignetteBuilder: knitr
 LazyData: true
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.1
 NeedsCompilation: no
-Packaged: 2022-10-13 17:44:36 UTC; jonathancallahan
+Packaged: 2023-01-30 23:11:13 UTC; jonathancallahan
 Author: Jonathan Callahan [aut, cre],
   Hans Martin [ctb],
   Eli Grosman [ctb],
   Roger Bivand [ctb],
   Sebastian Luque [ctb]
 Repository: CRAN
-Date/Publication: 2022-10-13 18:42:33 UTC
+Date/Publication: 2023-01-31 00:10:02 UTC
