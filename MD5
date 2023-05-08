@@ -1,8 +1,9 @@
-82e1c4348f93dd236c99ce7395b8708f *DESCRIPTION
-3654067e1c170c250d5819bf441660cd *NAMESPACE
-cc1348ebe5262f363afc70dec878dc41 *NEWS.md
+f498a5ab04ce7f556256e9ab7640509d *DESCRIPTION
+0c73171ea4ae5b9beb7859994e86ef2a *NAMESPACE
+7ff6f59ddd4707ca853cd4c19f853b44 *NEWS.md
 1ddc7c863dd1a9eaac49c0e28ddb6101 *R/MazamaTimeSeries.R
 e263e18c239320386aef5750593bb967 *R/data.R
+b675d88a7e8e24f77df84474e5ca398b *R/mts_arrange.R
 5b31c4ad848c5ed90de57d44130d11ce *R/mts_collapse.R
 358ac3a4fe56afe502ede6c1ab3cec39 *R/mts_combine.R
 5733c7b8d56c067beebe3e91986d07fc *R/mts_filterData.R
@@ -11,7 +12,7 @@ c5dea653380f75586707122a5a8f29af *R/mts_filterDatetime.R
 10183d3f5c67ba6f21420732d2c70ed2 *R/mts_filterMeta.R
 f3a53cf1e696a57e8203facf730a1792 *R/mts_getDistance.R
 5677681729000d9b431ebb3985181539 *R/mts_sample.R
-97f35155c95e27eaeecc0bc2a5db198e *R/mts_select.R
+46a8b9780c1a7cb9853196ac531b2cf3 *R/mts_select.R
 2cc690a4193402d404333c725e356284 *R/mts_selectWhere.R
 7689eab8e145c9f9cc92e8d008ec4367 *R/mts_summarize.R
 453d789452af93922f09dc2f259d67c0 *R/mts_trim.R
@@ -23,13 +24,13 @@ dcdede862f81c846a9559250e65bb2bd *R/sts_filterDatetime.R
 c10d984d8f7671d901409b8e0d430ebf *R/sts_summarize.R
 0539a7c2151d550aa91b61a2ca8a6d40 *R/sts_trimDate.R
 8ae82d787d7be7cd541b1cf148b88444 *R/timeInfo.R
-4559a36b038110e4a0408af42f44b8a6 *R/utils-internal.R
+4d5ffc56cc071944e5625b882e9e5490 *R/utils-internal.R
 6f2e50859f001d6fff3415171464f13f *R/utils-mts.R
 65cef5e0674056f6fc07dd2b3ca85c13 *R/utils-pipe.R
 5cfcfc8cb34176afc6c673e0ff4766d2 *R/utils-sampling.R
 75402d3b5deeebd0e26f07fb766960e0 *R/utils-sts.R
 fb80e05df549395f05f6f036797191f9 *R/utils-timeInfo.R
-8dca7e0203852173a6abe0ccd87068ee *README.md
+0e865d30effb8498a79057d9a18822b8 *README.md
 74c815c4ce280a3f37a0cebcea74fc6f *build/vignette.rds
 137cbb486d892d00969bce9fd9af739e *data/Camp_Fire.rda
 00e664a3f77a182e317199c1405a9c17 *data/Carmel_Valley.rda
@@ -49,6 +50,7 @@ e9436f42ba64d23636339004e0cba21c *man/Carmel_Valley.Rd
 9611876e3713ba7812d30348bd7d59d5 *man/example_mts.Rd
 e28c462d0f2c2cc965a3b4af98234cfa *man/example_raws.Rd
 2626c75964330266de44078ea5d8a009 *man/example_sts.Rd
+2a80e6988294c173327794f797e739d2 *man/mts_arrange.Rd
 1734aa55ce44a82ac7301129c9253303 *man/mts_check.Rd
 e1bc0290c4c7167bf4a7068c1525a09d *man/mts_collapse.Rd
 1c98e11bd370c99bd41fff547c90a8c2 *man/mts_combine.Rd
