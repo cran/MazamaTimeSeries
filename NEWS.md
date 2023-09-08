@@ -1,3 +1,8 @@
+# MazamaTimeSeries 0.2.14
+
+* Added `mts_slice_head()` and `mts_slice_tail()`.
+* Added `mts_setTimeAxis()` to modify mts time spans.
+
 # MazamaTimeSeries 0.2.13
 
 * Bumped **MazamaCoreUtils** dependency to 0.4.15.
