@@ -1,6 +1,6 @@
-99a20ba6154ea609f168b7f6fd373486 *DESCRIPTION
-481fa491aabac7b3d4de4f360d91e52b *NAMESPACE
-7732168c35d07ef448191954b028080d *NEWS.md
+32604dee58b46d35a446750075d046e9 *DESCRIPTION
+9e02bee71bd8ae9a7def6f61811d9e9a *NAMESPACE
+d4c80a2421cc96d90c666cb0b4e6b236 *NEWS.md
 b70764821404a7b48ef8738eff37a4c9 *R/MazamaTimeSeries.R
 e263e18c239320386aef5750593bb967 *R/data.R
 b675d88a7e8e24f77df84474e5ca398b *R/mts_arrange.R
@@ -11,6 +11,7 @@ b675d88a7e8e24f77df84474e5ca398b *R/mts_arrange.R
 0365285643692762d7420609639673cc *R/mts_filterDatetime.R
 10183d3f5c67ba6f21420732d2c70ed2 *R/mts_filterMeta.R
 f3a53cf1e696a57e8203facf730a1792 *R/mts_getDistance.R
+948b72938d967252088d691f7d1d4621 *R/mts_pull.R
 5677681729000d9b431ebb3985181539 *R/mts_sample.R
 46a8b9780c1a7cb9853196ac531b2cf3 *R/mts_select.R
 2cc690a4193402d404333c725e356284 *R/mts_selectWhere.R
@@ -40,10 +41,10 @@ d79b948f77d9894e60e8c58df1d61151 *data/example_mts.rda
 a85a842d60f68b238069630dd995c6f2 *data/example_raws.rda
 f72202941aa4cfa0750989f8a9589a9e *data/example_sts.rda
 c963a98298fb5cd9b46adf092369e8e6 *inst/doc/Developer_Style_Guide.Rmd
-168c1f5820a841b60654082114ab2085 *inst/doc/Developer_Style_Guide.html
+18067d461e54d7c8cc3c94a841bb1de9 *inst/doc/Developer_Style_Guide.html
 e624b84f34f25263746634db6cac8742 *inst/doc/MazamaTimeSeries.R
 ad6e7ff32cbc5679413ebf7590ba45c7 *inst/doc/MazamaTimeSeries.Rmd
-2ce8d7d0c09b179cbfdbbd3f2be28d37 *inst/doc/MazamaTimeSeries.html
+be19a48a033cd18d2bb3b905a429d01f *inst/doc/MazamaTimeSeries.html
 b8eb3e2fc908c90b96f03ec943bfbaf9 *man/Camp_Fire.Rd
 e9436f42ba64d23636339004e0cba21c *man/Carmel_Valley.Rd
 faa155176b74fb3b3bed7fb6afe1d3c8 *man/MazamaTimeSeries.Rd
@@ -65,6 +66,7 @@ aa88392052ba515807606cd4a7e6e47c *man/mts_extractDataFrame.Rd
 02e109528343aaf56446654f466435de *man/mts_getDistance.Rd
 34cd1a7842b51bb739cef9f50053b651 *man/mts_isEmpty.Rd
 069ca151d1bffde924df20e0b5d867d0 *man/mts_isValid.Rd
+521f3e28561533e8861bec4e176c284e *man/mts_pull.Rd
 7d3e7b919f42234afa68a00f3b98e81c *man/mts_sample.Rd
 ad2399aaeabdae85f4753af0c6393af8 *man/mts_select.Rd
 964073a7eae528e2765b9dcf89648c6e *man/mts_selectWhere.Rd
@@ -95,6 +97,7 @@ b1bdab545b993e74d3de37095e8d62aa *tests/testthat/test-mts_filterDate.R
 37df02495675c01d58751d40fef89a29 *tests/testthat/test-mts_filterDatetime.R
 9e2fe48f5cc9fa27eaebd354c9092415 *tests/testthat/test-mts_filterMeta.R
 b8326928c559b292a528271a7c661c8a *tests/testthat/test-mts_getDistance.R
+d022a9a07179bafc1ab3850d9b521ba7 *tests/testthat/test-mts_pull.R
 f01f54872637f09512274891673ef537 *tests/testthat/test-mts_select.R
 b83877e04faab50c6675a3a22891a4c2 *tests/testthat/test-mts_selectWhere.R
 a6f556d5c44822c8a2facde3fcff1cd2 *tests/testthat/test-mts_setTimeAxis.R
